@@ -26,7 +26,7 @@ local ButtonSection = MainTab:CreateSection("Buttons Section")
 -- List of PlaceIds and corresponding functions
 local placeFunctions = {
     [537413528] = function() loadstring(game:HttpGet('https://raw.githubusercontent.com/TheRealAsu/BABFT/refs/heads/main/Loader.lua'))() end,
-    [13864661000] = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Seiu1990/SeiuHub/refs/heads/main/Break%20In%202.lua")) end,
+    [13864661000] = function() loadstring(game:HttpGet("https://raw.githubusercontent.com/Seiu1990/SeiuHub/refs/heads/main/Break%20In%202.lua"))() end,
     [34567890] = function() print("Running code for PlaceId 34567890") end,
     [45678901] = function() print("Running code for PlaceId 45678901") end,
     [56789012] = function() print("Running code for PlaceId 56789012") end,
