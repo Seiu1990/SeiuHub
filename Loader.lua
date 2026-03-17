@@ -1,3 +1,5 @@
+-- WARNING: NONE OF THE SCRIPTS USED HERE ARE MINE
+-- YOU CAN FIND THE ORIGINAL ONES IN THE LOADSTRINGS
 -- Load Rayfield
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))() 
 
