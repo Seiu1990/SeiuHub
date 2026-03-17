@@ -1,3 +1,6 @@
+--WARNING: THIS CODE IS NOT OWNED BY ME (SEIU)
+--if you want to find the original code here it is
+--https://github.com/NoobHubV1/RobloxScripts/blob/main/Break%20In%202%20Story.lua
 -- Place Check
 if game.PlaceId ~= 13864667823 then
 	if game.PlaceId == 14775231477 or game.PlaceId == 13864661000 then
